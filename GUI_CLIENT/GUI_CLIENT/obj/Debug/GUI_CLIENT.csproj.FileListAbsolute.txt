@@ -1,0 +1,120 @@
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.exe.config
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.exe
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.pdb
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csprojAssemblyReference.cache
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\App.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_MarkupCompile.cache
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_MarkupCompile.lref
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\MainWindow.baml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.g.resources
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.Properties.Resources.resources
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csproj.GenerateResource.cache
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csproj.CopyComplete
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.exe
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.pdb
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\App.baml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\Chat.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\Chat.baml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\MessageBubble.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\MessageBubble.baml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.xml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_Content.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\SignUp.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\SignUp.baml
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\UserBubble.g.cs
+C:\Users\Daniel Tönnies\source\repos\GUI_CLIENT\GUI_CLIENT\obj\Debug\UserBubble.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.exe.config
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.exe
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.pdb
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.SqlServer.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignColors.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Newtonsoft.Json.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.xml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.SqlServer.xml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignColors.pdb
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.xml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Newtonsoft.Json.xml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\de\EntityFramework.resources.dll
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csprojAssemblyReference.cache
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\Chat.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MainWindow.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MessageBubble.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\SignUp.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\UserBubble.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\App.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_Content.g.cs
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_MarkupCompile.cache
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_MarkupCompile.lref
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\App.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\Chat.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MainWindow.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MessageBubble.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\SignUp.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\UserBubble.baml
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.g.resources
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.Properties.Resources.resources
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csproj.GenerateResource.cache
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csproj.CopyComplete
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.exe
+H:\school\nwt\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.pdb
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.exe.config
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.exe
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\GUI_CLIENT.pdb
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.xml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csprojAssemblyReference.cache
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\Chat.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MessageBubble.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\SignUp.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\UserBubble.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\App.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_Content.g.cs
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_MarkupCompile.cache
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT_MarkupCompile.lref
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\App.baml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\Chat.baml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MainWindow.baml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\MessageBubble.baml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\SignUp.baml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\UserBubble.baml
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.g.resources
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.Properties.Resources.resources
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csproj.GenerateResource.cache
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.csproj.CopyComplete
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.exe
+C:\Users\Daniel Tönnies\Desktop\Projekt_Daniel_Toennies\GUI_CLIENT\GUI_CLIENT\obj\Debug\GUI_CLIENT.pdb

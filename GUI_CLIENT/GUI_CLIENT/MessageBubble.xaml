@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="GUI_CLIENT.MessageBubble"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GUI_CLIENT"
+             mc:Ignorable="d">
+    <Grid Margin="5 2 100 2"  HorizontalAlignment="Left" x:Name="grid_bubble">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="AUTO"/>
+                <RowDefinition Height="AUTO"/>
+                <RowDefinition Height="AUTO"/>
+            </Grid.RowDefinitions>
+        <Border Background="#FFC7C7C7" CornerRadius="15">
+            <StackPanel>
+                <TextBlock Text="Daniel" x:Name="name" Margin="10 0 10 0" Foreground="#FF37829E" TextAlignment="Center"/>
+                <TextBlock TextWrapping="WrapWithOverflow" Text="Hallo, wie gehts? Ich bin dabei dieses Chat-Programm zu entwickeln. Schau doch mal rein!!" x:Name="message" FontSize="16" Margin="3 -2 3 3" Foreground="#FF37829E" TextAlignment="Left"/>
+                <TextBlock Text="--.--.----" x:Name="date" Foreground="#FF37829E" Margin="10 0 10 0" TextAlignment="Center"/>
+            </StackPanel>
+            </Border>
+            
+        </Grid>
+</UserControl>

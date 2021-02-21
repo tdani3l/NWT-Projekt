@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="GUI_CLIENT.UserBubble"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GUI_CLIENT"
+             mc:Ignorable="d">
+    <Grid HorizontalAlignment="Center" x:Name="grid_bubble" Width="148" Height="40" Margin="4 4">
+        <Border Background="#FFC7C7C7" CornerRadius="5" VerticalAlignment="Center"
+                Width="148" Height="40"
+                HorizontalAlignment="Center">
+            <TextBlock Text="Test-Name" HorizontalAlignment="Center" VerticalAlignment="Center"
+                       x:Name="name" FontSize="16" Height="22" Width="148" TextAlignment="Center"
+                       Foreground="#FF37829E"/>
+        </Border>
+
+    </Grid>
+</UserControl>

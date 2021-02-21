@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SignalR_UserModelStoreContainer" CdmEntityContainer="SignalR_UserEntities">
+    <EntitySetMapping Name="UserR">
+      <EntityTypeMapping TypeName="SignalR_UserModel.UserR">
+        <MappingFragment StoreEntitySet="UserR">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="LastKnownIP" ColumnName="LastKnownIP" />
+          <ScalarProperty Name="PreName" ColumnName="PreName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

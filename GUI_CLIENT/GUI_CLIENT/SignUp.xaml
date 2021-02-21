@@ -1,0 +1,42 @@
+﻿<Window x:Class="GUI_CLIENT.SignUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_CLIENT"
+        mc:Ignorable="d"
+        Height="416" Width="400" Background="#FF37829E">
+    <StackPanel>
+        <Grid  Margin="5 10 5 0">
+            <TextBlock Text="SignalR - Chat" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="26" Foreground="#FFC7C7C7"/>
+         
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="AUTO"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Margin="5 10" Text="Username" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="#FFC7C7C7"/>
+            <TextBox Margin="10 10 30 10" x:Name="tb_name" FontSize="18"  Grid.Column="1" Foreground="#FFC7C7C7"/>
+            <TextBlock Grid.Row="1" Margin="5 10" Text="Prename" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="#FFC7C7C7"/>
+            <TextBox Grid.Row="1" Margin="10 10 30 10" x:Name="tb_preName" FontSize="18"  Grid.Column="1" Foreground="#FFC7C7C7"/>
+            <TextBlock Grid.Row="2" Margin="5 10" Text="Surname" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="#FFC7C7C7"/>
+            <TextBox Grid.Row="2" Margin="10 10 30 10" x:Name="tb_surName" FontSize="18"  Grid.Column="1" Foreground="#FFC7C7C7"/>
+            <TextBlock Grid.Row="3" Margin="5 10" Text="Password" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="#FFC7C7C7"/>
+            <PasswordBox Grid.Row="3" Margin="10 10 30 10" x:Name="pb_passwd" FontSize="18"  Grid.Column="1" Foreground="#FFC7C7C7"/>
+            <TextBlock Grid.Row="4" Margin="5 10" Text="Repeat" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="#FFC7C7C7"/>
+            <PasswordBox Grid.Row="4" Margin="10 10 30 10" x:Name="pb_passwd2" FontSize="18"  Grid.Column="1" Foreground="#FFC7C7C7"/>
+        </Grid>
+        <TextBlock Foreground="DarkRed" TextAlignment="Center" x:Name="console"/>
+        <Button Margin="0, 10" Width="110" x:Name="btn_signup" Content="Sign Up" Click="btn_signup_Click"/>
+    </StackPanel>
+</Window>
